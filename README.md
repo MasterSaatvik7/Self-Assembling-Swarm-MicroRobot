@@ -13,7 +13,7 @@ This project simulates a **self-assembling swarm of microrobots** using **Pygame
 
 Before running the script, ensure you have the following dependencies installed:
 
-- Python 3.8 or higher(the code was developed on Python 3.11.9)
+- Python 3.8 or higher(the code was developed in Python 3.11.9)
 - pygame==2.6.0
 - numpy==1.26.4
 - scipy==1.14.0
