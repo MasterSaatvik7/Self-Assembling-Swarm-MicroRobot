@@ -58,6 +58,11 @@ You can modify the following constants in the script to adjust the simulation:
 - Agents are represented as moving points or shapes, with colors indicating state or type.
 - Formation shapes can be visualized dynamically as they are drawn.
 
+## Simulation Results
+
+![Simulation Results](https://github.com/MasterSaatvik7/Self-Assembling-Swarm-MicroRobot/raw/master/Video/Simulation%20Results.gif)
+
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for:
